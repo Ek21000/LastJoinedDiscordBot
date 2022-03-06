@@ -1,3 +1,5 @@
+## VERSION 1.0
+
 ## ABOUT ME
 This discord bot is designed to help users by creating a voice channel wich always displays the last joined user of a discord server in a vc check proof.jpeg for more info
 
