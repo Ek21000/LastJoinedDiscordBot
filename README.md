@@ -20,3 +20,4 @@ This Discord Bot Is Distributed and Coded By TopClips#3240 and can be used by an
 
 ## HELP
 SUPPORT SERVER https://discord.gg/PgKGAPdJ2J
+Host It On Replit: https://replit.com/@TopClips/TopClips-LastJoined?v=1
