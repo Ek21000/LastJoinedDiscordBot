@@ -24,3 +24,5 @@ This Discord Bot Is Distributed and Coded By TopClips#3240 and can be used by an
 SUPPORT SERVER https://discord.gg/PgKGAPdJ2J
 
 FORK ME ON REPLIT: https://replit.com/@TopClips/LastJoined-2?v=1
+
+https://media.discordapp.net/attachments/957106213785600010/961897974420615188/IMG_1462.png
